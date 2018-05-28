@@ -2,7 +2,7 @@
 # Overview
 Solving 8 puzzle game using A* seacrh. Two different heuristics implemeted here.
 
-1. number of misplaced tiles
+1. Number of misplaced tiles
 2. Manhatten distance
 
 Sample input 
