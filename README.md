@@ -2,7 +2,7 @@
 # Overview
 Solving 8 puzzle game using A* seacrh. Two different heuristics implemeted here.
 
-1. # of misplaced tiles
+1. number of misplaced tiles
 2. Manhatten distance
 
 Sample input 
@@ -15,10 +15,9 @@ Sample input
                    [7,5,0]]
                    
 Sample output
-Move1
-[[2 8 3]
- [1 6 4]
- [7 0 5]]
+Move1 = [[2 8 3]
+		 [1 6 4]
+		 [7 0 5]]
 Move2
 [[2 8 3]
  [1 0 4]
